@@ -1,4 +1,7 @@
-# test coverage for  [get-stdin (v5.0.1)](https://github.com/sindresorhus/get-stdin)  [![npm package](https://img.shields.io/npm/v/npmtest-get-stdin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-get-stdin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-get-stdin.svg)](https://travis-ci.org/npmtest/node-npmtest-get-stdin)
+# npmtest-get-stdin
+
+#### basic test-coverage for  [get-stdin (v5.0.1)](https://github.com/sindresorhus/get-stdin)  [![npm package](https://img.shields.io/npm/v/npmtest-get-stdin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-get-stdin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-get-stdin.svg)](https://travis-ci.org/npmtest/node-npmtest-get-stdin)
+
 #### Get stdin as a string or buffer
 
 [![NPM](https://nodei.co/npm/get-stdin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/get-stdin)
@@ -89,7 +92,8 @@
         "ignores": [
             "test.js"
         ]
-    }
+    },
+    "bin": {}
 }
 ```
 
